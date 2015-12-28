@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/sentsin/layer.git",
+    "version": "2.x",
+    "description": "web弹层组件",
+    "name": "layer",
+    "main": "layer.js"
+}
